@@ -1,0 +1,49 @@
+___ Estruturais
+
+#include <stdio.h> = Standard input/output, adiciona entrada e saida.
+
+main() = Todo progama deve ser escrito dentro.
+
+/* */ = Comentários.
+
+
+___ Entrada e Saida
+
+printf() = Print Format, imprime strings.
+
+puts() = Put String, imprime uma string e ainda pula uma linha.
+
+scanf() = Scan Format, entrada de dados.
+
+
+___ Dentro de printf ou puts
+
+\n = New line, usado dentro de printf(ou puts), pula uma linha.
+
+\t = Tabulação horizonta, ou o TAB.
+
+
+OBS: PARA USAR '"' É NECESSARIO O USO DA BARRA ANTES \"
+PARA QUE O SIGNIFICADO DAS ASPAS DUPLAS SEJA RETIDADO, ASSIM COMO OUTROS CARACTERES.
+
+OBS: EM UMA CONTA "%" NÃO É PORCENTAGEM E SIM O MÓDULO, O RESTO DE UMA DIVISÃO DE INTEIROS =		21 / 4 = 5 então 21 % 4 = 1
+
+___ Inteiros ou int
+
+
+%d = Chama um inteiro dentro das aspas de uma função de impressão.
+
+sizeof(int) = Tamanho de, indica o tamanho que um tipo de variavel tem.
+
+short int n; = Um inteiro com o tamanho de 2 bits, chamado por %hd
+
+long int n; = Inteiro com tamanho de 4 bits, chamado por %ld
+
+unsigned int = Inteiro com valores apenas positivo.
+
+
+
+
+___ Ponteiros
+
+http://www.cprogressivo.net/2013/03/O-que-sao-ponteiros-para-que-servem-e-como-usar-em-C.html
